@@ -8,4 +8,4 @@
 - ```/picture/{id} (DELETE)```: Deletes a picture by ID.
 
 ## API Endpoint Testing:
-Unit tests implemented to ensure functionality and validity of each endpoint.
+- Unit tests implemented to ensure functionality and validity of each endpoint.
